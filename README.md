@@ -42,7 +42,7 @@
   <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=Emerson836&theme=transparent" />
 </a>
 <a href="https://github.com/Emerson836/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Makerjunior&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emerson836&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
  

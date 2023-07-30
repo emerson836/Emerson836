@@ -68,4 +68,4 @@
 <p align="center">
 
 </h4>
-![Snake animation](https://github.com/emerson836/emerson836/blob/output/github-contribution-grid-snake.svg)
+
